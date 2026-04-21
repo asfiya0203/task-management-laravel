@@ -108,7 +108,7 @@ protected $guarded = [];
 jalankan:
 
 ```bash
-php artisan migrate route:list
+php artisan serve
 ```
 
 Aplikasi akan berjalan di: *http://127.0.0.1:8000/jadwal*
