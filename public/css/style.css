@@ -1,0 +1,77 @@
+body {
+    background-color: white;
+    font-family: times 'Times New Roman', Times, serif;
+}
+
+.judul {
+    background-color: pink;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+#text1 {
+    font-size: 20px;
+}
+
+.tombol {
+    border-style: none;
+    padding: 7px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    background-color: pink;
+    font-weight: bold;
+}
+
+a, button {
+    color: white;
+    text-decoration: none;
+}
+
+.tombol:hover {
+    background-color: deeppink;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.isi {
+    display: block;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 10px;
+    box-shadow: 0 7px 15px #00000026;
+}
+
+th, td {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: pink;
+    border-width: 2px;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+input {
+    border: none;
+    outline: none;
+}
+
+.form {
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px #00000026;
+}
